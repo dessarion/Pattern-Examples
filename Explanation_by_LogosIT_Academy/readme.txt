@@ -1,0 +1,1 @@
+In this folder will be explanations for most popular patterns from LOGOS IT ACADEMY
